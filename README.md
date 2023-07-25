@@ -1,2 +1,3 @@
-# jp-python-bare-kf
+## Jupyter Python Bare KF
+
 Jupyter Lab Python KF notebook environment configurations
